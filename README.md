@@ -1,5 +1,7 @@
 # 坠 · DESCENT
 
+**▶ Play it live: https://maplecity1314.github.io/descent/**
+
 A Helix Jump–style 3D descent game. A maple-red ball falls down the central axis
 of an infinite spiral tower; you rotate the whole tower to line a gap up under
 the ball. Chain consecutive drops to enter a **shatter state** that smashes

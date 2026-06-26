@@ -1,0 +1,22 @@
+{
+  "name": "descent",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "坠 · DESCENT — a Helix Jump-style 3D descent H5 game",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/space-grotesk": "^5.0.18",
+    "three": "^0.160.0",
+    "tone": "^14.7.77"
+  },
+  "devDependencies": {
+    "@types/three": "^0.160.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.2.0"
+  }
+}
